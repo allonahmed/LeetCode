@@ -5,6 +5,7 @@
  */
 
 //96% PROOF REad your code... wasted 10 minutes for being dumb
+//prolly can find a better solution in future
 var longestCommonPrefix = function (strs) {
   let results = "";
   let prefix = "";
